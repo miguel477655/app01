@@ -1,8 +1,8 @@
 {
     "name": "app Portifolio"
     "short": "DFM",
-    "start": "/"
-    "display": standalone". // faz o app abrir como aplicativo independente
+    "start": "/",
+    "display": "standalone", // faz o app abrir como aplicativo independente
     "background_color": "#ffffff", //cor de fundo no carregamento
     "theme_color": "#000000", //cor da barra de status
     "description": "esse é o app dos estudantes do 3 sistemas 2025",
